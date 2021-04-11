@@ -1,0 +1,23 @@
+body,
+html {
+  background: lightgray !important;
+}
+.navbar {
+  background: #fff !important;
+}
+.navbar-collapse {
+  flex-grow: 0 !important;
+}
+.col-8 {
+  background: #fff;
+}
+img {
+  width: 200px;
+  height: auto;
+  float: left;
+  margin: 10px;
+}
+footer {
+  border-top: 10px solid cyan;
+  background: #fff;
+}
